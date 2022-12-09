@@ -1,1 +1,1 @@
-
+music.setVolume(20)
